@@ -1,0 +1,25 @@
+{
+    "name": "Aries",
+    "logoURI": "https://www.xxxxxxxxxxxx/logo.png",
+    "keywords": [
+        "defi",
+        "DEFI",
+        "yield"
+      ],
+      "timestamp": "2020-09-01T01:40:34.305Z",
+      "tokens": [
+        {
+        "chainId": 4,
+        "address": "0x217A0227318bB31874F3D623a82D03fE3CeE6e09",
+        "name": "AriesSwap",
+        "symbol": "ARIES",
+        "decimals": 18,
+        "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+        }
+      ],
+      "version": {
+        "major": 0,
+        "minor": 0,
+        "patch": 0
+      }
+  }
