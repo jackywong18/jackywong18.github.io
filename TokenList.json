@@ -15,7 +15,15 @@
         "symbol": "ARIES",
         "decimals": 9,
         "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
-        }
+        },
+        {
+          "chainId": 4,
+          "address": "0xDF7530296eD38fc763d7C5951674310f78114c28",
+          "name": "wrapped ARIES",
+          "symbol": "WARIES",
+          "decimals": 18,
+          "logoURI": "https://www.xxxxxxxxxxxx/logo.png"
+          }
       ],
       "version": {
         "major": 0,
